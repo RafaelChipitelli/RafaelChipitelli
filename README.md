@@ -5,7 +5,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rafaelchipitelli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelchipitelli)
-[![AWS Certified](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com)
+[![AWS Certified](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/1c896632-17d0-43fd-91f0-01763a294ae9/linked_in_profile)
 ![Location](https://img.shields.io/badge/Sydney-Australia-00A2FF?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
