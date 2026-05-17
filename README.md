@@ -36,7 +36,6 @@ Currently transitioning into cloud/IT while shipping side projects that solve ac
 
 Employees clock in/out by looking at a camera. No timesheets. One platform, multiple companies, each with isolated data and their own Rekognition collection.
 
-**Live:** [d326d1z7uugbav.cloudfront.net](https://d326d1z7uugbav.cloudfront.net)
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=nextdotjs)
 ![Lambda](https://img.shields.io/badge/Lambda-14_functions-FF9900?logo=awslambda)
@@ -52,7 +51,6 @@ Employees clock in/out by looking at a camera. No timesheets. One platform, mult
 
 Production-ready cloud support system built for MSP teams. Google OAuth, JWT-protected API, AI-generated triage, per-user data isolation. Costs nothing at idle, scales automatically.
 
-**Live:** [d29817j4dymot2.cloudfront.net](https://d29817j4dymot2.cloudfront.net)
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)
 ![Cognito](https://img.shields.io/badge/Cognito-OAuth-DD344C?logo=amazoncognito)
