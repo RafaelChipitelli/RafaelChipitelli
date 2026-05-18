@@ -113,6 +113,11 @@ Alpha-functional multiplayer card game. Full game loop, real-time sync between c
 
 <div align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RafaelChipitelli&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=ffffff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelChipitelli&layout=compact&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=ffffff" />
+
+<br/>
+
 <img src="https://streak-stats.demolab.com/?user=RafaelChipitelli&theme=dark&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=ffffff&dates=888888" />
 
 </div>
