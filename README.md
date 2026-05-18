@@ -14,7 +14,7 @@
 
 ## About
 
-I build full-stack serverless systems on AWS — real infrastructure, real users, production traffic.
+I build full-stack serverless systems on AWS, real infrastructure, real users, production traffic.
 
 Currently transitioning into cloud/IT while shipping side projects that solve actual problems. Every project I build goes live and stays live.
 
